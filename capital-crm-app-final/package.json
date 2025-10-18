@@ -1,0 +1,8 @@
+{
+  "name": "capital-crm-monorepo",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
